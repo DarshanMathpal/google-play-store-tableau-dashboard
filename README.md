@@ -46,7 +46,7 @@ The project uses a Google Play Store dataset containing app-related metrics and 
 * Apps with stronger engagement often receive more reviews.
 * Pricing models differ widely depending on category and audience.
 
-## Interactive Dashboard
+## Live Dashboard
 
 https://public.tableau.com/views/GooglePlayStoreDashboard_17770944474320/GooglePlayStoreAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
