@@ -52,7 +52,7 @@ https://public.tableau.com/views/GooglePlayStoreDashboard_17770944474320/GoogleP
 
 ## Dashboard Overview
 
-<img width="1424" height="857" alt="Screenshot 2026-04-26 at 4 24 22 PM" src="https://github.com/user-attachments/assets/40d676b7-df73-4e81-aa8e-684b8ca00f61" />
+<img width="1426" height="859" alt="Screenshot 2026-04-26 at 4 26 14 PM" src="https://github.com/user-attachments/assets/50065b47-d839-453a-be99-cf2a4b64761f" />
 
 ## Created By
 
